@@ -1,15 +1,15 @@
-# Carlos Nogueira 👋
+# Carlos Nogueira
 ### AI Systems Architect & Founder of [@NROxAI](https://github.com/NROxAI)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://linkedin.com)
-[![GitHub BPM](https://img.shields.io/badge/Flagship_Project-Business_Project_Manager_(BPM)-8A2BE2?style=flat-square&logo=github)](https://github.com/NROxAI/Business-Project-Manager)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green?style=flat-square)](https://opensource.org/licenses/MIT)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-21262d?style=flat-square&logo=linkedin&labelColor=161b22)](https://linkedin.com)
+[![GitHub BPM](https://img.shields.io/badge/Flagship_Project-Business_Project_Manager_(BPM)-21262d?style=flat-square&logo=github&labelColor=161b22)](https://github.com/NROxAI/Business-Project-Manager)
+[![License: MIT](https://img.shields.io/badge/License-MIT-21262d?style=flat-square&labelColor=161b22)](https://opensource.org/licenses/MIT)
 
 > *"Pioneering Autonomous AI Workflows, Agentic Knowledge Governance, and Scalable Digital Business Architectures."*
 
 ---
 
-## 🌟 Featured Project: Business Project Manager (BPM)
+## Featured Project: Business Project Manager (BPM)
 
 I am the creator and lead architect of **[Business Project Manager (BPM)](https://github.com/NROxAI/Business-Project-Manager)** — a universal, platform-agnostic framework designed to bridge the critical gap between AI code generation and comprehensive real-world business governance.
 
@@ -17,25 +17,25 @@ I am the creator and lead architect of **[Business Project Manager (BPM)](https:
 graph LR
     subgraph Engine ["BPM: The Agentic Second Brain Framework"]
         direction LR
-        A["🧠 <b>Second Brain (Tiago Forte)</b><br>C.O.D.E. + P.A.R.A. Method"] 
-        --> B["⚡ <b>Dual-Track Architecture</b><br>Build (Code) x Run (Operations)"]
-        --> C["🏛️ <b>Immutable Decisions</b><br>B-ADR & R-ODR Records"]
+        A["<b>Second Brain (Tiago Forte)</b><br>C.O.D.E. + P.A.R.A. Method"] 
+        --> B["<b>Dual-Track Architecture</b><br>Build (Code) x Run (Operations)"]
+        --> C["<b>Immutable Decisions</b><br>B-ADR & R-ODR Records"]
     end
-    style Engine fill:#161b22,stroke:#388bfd,stroke-width:1px,color:#fff
-    style A fill:#1f242c,stroke:#8a2be2,color:#bc8cff
-    style B fill:#1f242c,stroke:#238636,color:#3fb950
-    style C fill:#1f242c,stroke:#d29922,color:#f0883e
+    style Engine fill:#161b22,stroke:#30363d,stroke-width:1px,color:#f0f6fc
+    style A fill:#21262d,stroke:#30363d,color:#c9d1d9
+    style B fill:#21262d,stroke:#30363d,color:#c9d1d9
+    style C fill:#21262d,stroke:#30363d,color:#c9d1d9
 ```
 
-* 🚀 **Universal AI Agnosticism:** Native support for Google Antigravity, Claude Code, Cursor, Codex, and ChatGPT.
-* 🛡️ **The 7 Universal Pillars:** Brand protection (USPTO/INPI), edge infrastructure (Cloudflare), dedicated telephony & account isolation (anti-detect, proxies), traffic channels, AI hardening, automations (n8n), and dual-track governance.
-* 📖 **Scientific Foundation:** Built upon the peer-reviewed methodologies of Tiago Forte (*Building a Second Brain*), Michael Nygard (*ADRs*), and Jeff Patton / Marty Cagan (*Dual-Track Engineering*).
+* **Universal AI Agnosticism:** Native support for Google Antigravity, Claude Code, Cursor, Codex, and ChatGPT.
+* **The 7 Universal Pillars:** Brand protection (USPTO/INPI), edge infrastructure (Cloudflare), dedicated telephony & account isolation (anti-detect, proxies), traffic channels, AI hardening, automations (n8n), and dual-track governance.
+* **Scientific Foundation:** Built upon the peer-reviewed methodologies of Tiago Forte (*Building a Second Brain*), Michael Nygard (*ADRs*), and Jeff Patton / Marty Cagan (*Dual-Track Engineering*).
 
-👉 **[Explore the Repository & Star the Project ⭐](https://github.com/NROxAI/Business-Project-Manager)**
+[Explore the Repository](https://github.com/NROxAI/Business-Project-Manager)
 
 ---
 
-## 🛠️ Core Expertise & Engineering Focus
+## Core Expertise & Engineering Focus
 
 * **Autonomous AI Architecture:** Multi-agent orchestration, prompt defense (jailbreak & injection hardening), deterministic context handoffs, and LLM memory distillation.
 * **Dual-Track Governance:** Strict isolation between software engineering pipelines (`Build`) and operational field execution (`Run`).
@@ -44,19 +44,19 @@ graph LR
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NROxAI&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NROxAI&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NROxAI&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NROxAI&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" width="45%" />
 </p>
 
 ---
 
-## 🌐 Connect with Me
+## Contact & Inquiries
 
-* 🏢 **Organization:** [@NROxAI](https://github.com/NROxAI)
-* 💼 **Open to:** Strategic AI Partnerships, Open-Source Collaborations, and Advanced Agentic Architecture Consulting.
+* **Organization:** [@NROxAI](https://github.com/NROxAI)
+* **Focus:** Strategic AI Partnerships, Open-Source Governance, and Advanced Agentic Architectures.
 
 ---
 <p align="center">
