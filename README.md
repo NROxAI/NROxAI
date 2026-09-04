@@ -21,10 +21,10 @@ graph LR
         --> B["<b>Dual-Track Architecture</b><br>Build (Code) x Run (Operations)"]
         --> C["<b>Immutable Decisions</b><br>B-ADR & R-ODR Records"]
     end
-    style Engine fill:#161b22,stroke:#30363d,stroke-width:1px,color:#f0f6fc
-    style A fill:#21262d,stroke:#30363d,color:#c9d1d9
-    style B fill:#21262d,stroke:#30363d,color:#c9d1d9
-    style C fill:#21262d,stroke:#30363d,color:#c9d1d9
+    style Engine fill:#0d1117,stroke:#30363d,stroke-width:1px,color:#c9d1d9
+    style A fill:#161b22,stroke:#30363d,color:#c9d1d9
+    style B fill:#161b22,stroke:#30363d,color:#c9d1d9
+    style C fill:#161b22,stroke:#30363d,color:#c9d1d9
 ```
 
 * **Universal AI Agnosticism:** Native support for Google Antigravity, Claude Code, Cursor, Codex, and ChatGPT.
