@@ -13,19 +13,9 @@
 
 I am the creator and lead architect of **[Business Project Manager (BPM)](https://github.com/NROxAI/Business-Project-Manager)** — a universal, platform-agnostic framework designed to bridge the critical gap between AI code generation and comprehensive real-world business governance.
 
-```mermaid
-graph LR
-    subgraph Engine ["BPM: The Agentic Second Brain Framework"]
-        direction LR
-        A["<b>Second Brain (Tiago Forte)</b><br>C.O.D.E. + P.A.R.A. Method"] 
-        --> B["<b>Dual-Track Architecture</b><br>Build (Code) x Run (Operations)"]
-        --> C["<b>Immutable Decisions</b><br>B-ADR & R-ODR Records"]
-    end
-    style Engine fill:#0d1117,stroke:#30363d,stroke-width:1px,color:#c9d1d9
-    style A fill:#161b22,stroke:#30363d,color:#c9d1d9
-    style B fill:#161b22,stroke:#30363d,color:#c9d1d9
-    style C fill:#161b22,stroke:#30363d,color:#c9d1d9
-```
+<p align="center">
+  <img src="assets/bpm-architecture.svg" alt="BPM Architecture" width="100%" />
+</p>
 
 * **Universal AI Agnosticism:** Native support for Google Antigravity, Claude Code, Cursor, Codex, and ChatGPT.
 * **The 7 Universal Pillars:** Brand protection (USPTO/INPI), edge infrastructure (Cloudflare), dedicated telephony & account isolation (anti-detect, proxies), traffic channels, AI hardening, automations (n8n), and dual-track governance.
@@ -44,12 +34,14 @@ graph LR
 
 ---
 
-## GitHub Analytics
+## Technical Systems & Governance Matrix
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NROxAI&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NROxAI&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" width="45%" />
-</p>
+| Domain | Architecture & Systems | Standard & Methodology | Operational Status |
+| :--- | :--- | :--- | :--- |
+| **Agentic Second Brain** | Business Project Manager (BPM) | Tiago Forte C.O.D.E. & P.A.R.A. | Active / Open Source |
+| **Engineering Motor** | Dual-Track Pipeline | Strict Isolation: Build (Code) x Run (Field) | Production Standard |
+| **Decision Governance** | Architectural & Operational Records | Michael Nygard ADRs (`B-ADR`) & ODRs (`R-ODR`) | Immutable SSOT |
+| **Cloud & Security Edge** | Cloudflare Topology & Account Contingency | ICANN At-Cost Registrar, WAF & Anti-Detect | Hardened |
 
 ---
 
