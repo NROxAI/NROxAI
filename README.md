@@ -38,7 +38,7 @@ I am the creator and lead architect of **[Business Project Manager (BPM)](https:
 
 | Domain | Architecture & Systems | Standard & Methodology | Operational Status |
 | :--- | :--- | :--- | :--- |
-| **Agentic Second Brain** | Business Project Manager (BPM) | Tiago Forte C.O.D.E. & P.A.R.A. | Active / Open Source |
+| **Agentic Second Brain** | Business Project Manager (BPM) | Tiago Forte C.O.D.E. & P.A.R.A. | Under Active Review (Private) |
 | **Engineering Motor** | Dual-Track Pipeline | Strict Isolation: Build (Code) x Run (Field) | Production Standard |
 | **Decision Governance** | Architectural & Operational Records | Michael Nygard ADRs (`B-ADR`) & ODRs (`R-ODR`) | Immutable SSOT |
 | **Cloud & Security Edge** | Cloudflare Topology & Account Contingency | ICANN At-Cost Registrar, WAF & Anti-Detect | Hardened |
