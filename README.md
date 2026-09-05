@@ -1,56 +1,62 @@
 # Carlos Nogueira
-### AI Systems Architect & Founder of [@NROxAI](https://github.com/NROxAI)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-21262d?style=flat-square&logo=linkedin&labelColor=161b22)](https://linkedin.com)
-[![GitHub BPM](https://img.shields.io/badge/Flagship_Project-Business_Project_Manager_(BPM)-21262d?style=flat-square&logo=github&labelColor=161b22)](https://github.com/NROxAI/Business-Project-Manager)
-[![License: MIT](https://img.shields.io/badge/License-MIT-21262d?style=flat-square&labelColor=161b22)](https://opensource.org/licenses/MIT)
+### Electrical engineer, building in AI in the open
 
-> *"Pioneering Autonomous AI Workflows, Agentic Knowledge Governance, and Scalable Digital Business Architectures."*
+I trained as an electrical engineer, then found that working in industry meant building what other people wanted built. So I made my own specialty instead: for ten years I ran an automation company, delivering residential and commercial projects, and I assembled that expertise course by course — choosing what to learn, and when, and how, as I went. I hold an MBA.
+
+I am doing the same thing again with AI. Not through a research degree: I would rather stay broad and build things that ship than narrow down to defend a thesis. Outside work I study for the pleasure of it — science, mathematics, music, film. None of that is what I do for a living; it is simply why I have never waited for someone to offer a course before starting to learn something.
+
+So I am studying deliberately, building in public, and publishing the tools I build along the way.
 
 ---
 
-## Featured Project: Business Project Manager (BPM)
+## What I am building
 
-I am the creator and lead architect of **[Business Project Manager (BPM)](https://github.com/NROxAI/Business-Project-Manager)** — a universal, platform-agnostic framework designed to bridge the critical gap between AI code generation and comprehensive real-world business governance.
+**Business Project Manager (BPM)** — an open framework that gives AI-assisted projects the governance layer they usually skip.
 
 <p align="center">
-  <img src="assets/bpm-architecture.svg" alt="BPM Architecture" width="100%" />
+  <img src="assets/bpm-architecture.svg" alt="BPM architecture: Second Brain, Dual-Track and immutable decision records" width="100%" />
 </p>
 
-* **Universal AI Agnosticism:** Native support for Google Antigravity, Claude Code, Cursor, Codex, and ChatGPT.
-* **The 7 Universal Pillars:** Brand protection (USPTO/INPI), edge infrastructure (Cloudflare), dedicated telephony & account isolation (anti-detect, proxies), traffic channels, AI hardening, automations (n8n), and dual-track governance.
-* **Scientific Foundation:** Built upon the peer-reviewed methodologies of Tiago Forte (*Building a Second Brain*), Michael Nygard (*ADRs*), and Jeff Patton / Marty Cagan (*Dual-Track Engineering*).
+It did not start as a framework. It started because I was losing work. Context from one AI session would not survive into the next: decisions we had already settled came back up for debate, the reasoning behind them disappeared, and I kept re-explaining the same project from the beginning. So I started writing decisions down in a fixed shape, and handing a written baton from each session to the next.
 
-[Explore the Repository](https://github.com/NROxAI/Business-Project-Manager)
+Only afterwards did I find out that what I had arrived at by intuition already had names and a literature behind it — architecture decision records, progressive summarisation, the separation of build from run. BPM is the result: something learned by losing projects, then reconciled with the people who had formalised it first.
 
----
+It does three concrete things:
 
-## Core Expertise & Engineering Focus
+* **Separates engineering decisions from business ones.** Technical choices are recorded as ADRs, operational and commercial choices as ODRs, so a pricing call never quietly rewrites the architecture.
+* **Freezes a decision once it is made.** Context, rejected alternatives and trade-offs are written down, so the next session inherits the conclusion instead of reopening the debate.
+* **Carries context across sessions.** Session minutes distil into a handoff, and the handoff into a boot register that the next session reads first — no amnesia, no re-explaining the project from scratch.
 
-* **Autonomous AI Architecture:** Multi-agent orchestration, prompt defense (jailbreak & injection hardening), deterministic context handoffs, and LLM memory distillation.
-* **Dual-Track Governance:** Strict isolation between software engineering pipelines (`Build`) and operational field execution (`Run`).
-* **Edge & Cloud Infrastructure:** At-cost domain topology (Cloudflare Registrar), DNS security, automated email routing, and digital asset contingency.
-* **Information Architecture:** Single Source of Truth (SSOT) design, zero-redundancy documentation, and cross-platform knowledge management.
+Version 1.0.0. Early, opinionated, and open to being argued with. The repository is temporarily private while I rework its structure, and will be public again shortly.
 
 ---
 
-## Technical Systems & Governance Matrix
+## Why this, rather than another coding tool
 
-| Domain | Architecture & Systems | Standard & Methodology | Operational Status |
-| :--- | :--- | :--- | :--- |
-| **Agentic Second Brain** | Business Project Manager (BPM) | Tiago Forte C.O.D.E. & P.A.R.A. | Under Active Review (Private) |
-| **Engineering Motor** | Dual-Track Pipeline | Strict Isolation: Build (Code) x Run (Field) | Production Standard |
-| **Decision Governance** | Architectural & Operational Records | Michael Nygard ADRs (`B-ADR`) & ODRs (`R-ODR`) | Immutable SSOT |
-| **Cloud & Security Edge** | Cloudflare Topology & Account Contingency | ICANN At-Cost Registrar, WAF & Anti-Detect | Hardened |
+Most people who pick up AI build the product and neglect the business around it. Having run one, I know the product is the smaller half. A project that actually survives also needs a brand, a registered trademark, domains and email that belong to the company rather than to a person, legal footing in the markets it sells into, and decisions that outlast whoever made them.
+
+BPM exists because AI assistants are very good at the visible half and blind to the rest.
 
 ---
 
-## Contact & Inquiries
+## What I am currently learning
 
-* **Organization:** [@NROxAI](https://github.com/NROxAI)
-* **Focus:** Strategic AI Partnerships, Open-Source Governance, and Advanced Agentic Architectures.
+* Building software with AI coding assistants, and finding where that approach holds up and where it quietly falls apart.
+* Designing and orchestrating agents — getting several of them to do useful work without losing the thread between them.
+* Workflow automation with n8n, and judging when an automated flow is the right answer instead of code.
+* Taking small applications end to end, from an idea to something that actually runs.
 
 ---
-<p align="center">
-  <sub>Designed with precision by Carlos Nogueira • Building the future of AI and business symbiosis.</sub>
-</p>
+
+## Background
+
+* Electrical engineer.
+* Ten years running my own automation company, delivering residential and commercial projects.
+* MBA in Business Administration.
+* **EMPRETEC** — the United Nations entrepreneurship programme (UNCTAD), delivered in Brazil by SEBRAE and built on David McClelland's Harvard research into entrepreneurial behaviour.
+* Brazilian. I work in English and Portuguese, which is why BPM treats Brazilian and US legal ground as two separate concerns rather than one.
+
+---
+
+Open to conversations about governance for AI-assisted work, and to contributions on BPM.
